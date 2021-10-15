@@ -1,0 +1,16 @@
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\AppliAventurier.exe
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\AppliAventurier.deps.json
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\AppliAventurier.runtimeconfig.json
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\AppliAventurier.runtimeconfig.dev.json
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\AppliAventurier.dll
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\AppliAventurier.pdb
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.csprojAssemblyReference.cache
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.AssemblyInfoInputs.cache
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.AssemblyInfo.cs
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.csproj.CoreCompileInputs.cache
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.dll
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.pdb
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.genruntimeconfig.cache
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\BiblioAventurier.dll
+E:\CirilGroup\Aventurier\AppliAventurier\bin\Debug\netcoreapp3.1\BiblioAventurier.pdb
+E:\CirilGroup\Aventurier\AppliAventurier\obj\Debug\netcoreapp3.1\AppliAventurier.csproj.CopyComplete

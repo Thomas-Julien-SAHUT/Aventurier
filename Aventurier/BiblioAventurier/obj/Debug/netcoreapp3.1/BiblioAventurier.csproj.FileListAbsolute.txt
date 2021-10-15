@@ -1,0 +1,9 @@
+E:\CirilGroup\Aventurier\BiblioAventurier\bin\Debug\netcoreapp3.1\BiblioAventurier.deps.json
+E:\CirilGroup\Aventurier\BiblioAventurier\bin\Debug\netcoreapp3.1\BiblioAventurier.dll
+E:\CirilGroup\Aventurier\BiblioAventurier\bin\Debug\netcoreapp3.1\BiblioAventurier.pdb
+E:\CirilGroup\Aventurier\BiblioAventurier\obj\Debug\netcoreapp3.1\BiblioAventurier.AssemblyInfoInputs.cache
+E:\CirilGroup\Aventurier\BiblioAventurier\obj\Debug\netcoreapp3.1\BiblioAventurier.AssemblyInfo.cs
+E:\CirilGroup\Aventurier\BiblioAventurier\obj\Debug\netcoreapp3.1\BiblioAventurier.csproj.CoreCompileInputs.cache
+E:\CirilGroup\Aventurier\BiblioAventurier\obj\Debug\netcoreapp3.1\BiblioAventurier.dll
+E:\CirilGroup\Aventurier\BiblioAventurier\obj\Debug\netcoreapp3.1\BiblioAventurier.pdb
+E:\CirilGroup\Aventurier\BiblioAventurier\obj\Debug\netcoreapp3.1\BiblioAventurier.csprojAssemblyReference.cache
